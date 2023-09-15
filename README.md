@@ -1,2 +1,2 @@
 # Pac-Master
-Pagina simples feita com bootstrap e CSS3 puro
+Meu primeiro projeto completo, feito enquanto estudava em busca de uma primeira oportunidade.
